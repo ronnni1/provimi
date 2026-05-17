@@ -100,7 +100,7 @@ if (isset($_GET["edito"])) {
 
 
 <!-- LISTA LIGJERUESVE -->
-<h2>Lista e Departmenteve</h2>
+<h2>Lista e jeme</h2>
 <?php if(empty($departmentet)): ?>
   <p>Nuk ka department .</p>
 <?php else: ?>

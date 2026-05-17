@@ -1,0 +1,16 @@
+body { font-family: sans-serif; margin: 20px; background: #f0f2f5; }
+h2 { color: #009C9C; }
+.container { max-width: 960px; margin: 0 auto; }
+.box { background: #fff; padding: 20px; border-radius: 8px; max-width: 480px; margin-bottom: 30px; box-shadow: 0 2px 6px rgba(0,0,0,.1); }
+label { font-weight: bold; display: block; margin-top: 8px; }
+input { width: 100%; padding: 8px; margin-top: 4px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
+.btn-shto { background: #009C9C; color: #fff; border: none; padding: 10px; width: 100%; border-radius: 4px; cursor: pointer; margin-top: 12px; font-size: 15px; }
+.btn-anulo { width: 100%; padding: 8px; margin-top: 6px; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; background: #fff; }
+.btn-edit { background: #f0a500; color: #fff; border: none; padding: 5px 12px; border-radius: 4px; cursor: pointer; }
+.btn-del  { background: #e74c3c; color: #fff; border: none; padding: 5px 12px; border-radius: 4px; cursor: pointer; margin-left: 6px; }
+.sukses { color: green; font-weight: bold; }
+.gabim  { color: red;   font-weight: bold; }
+table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,.1); margin-bottom: 30px; }
+th { background: #009C9C; color: #fff; padding: 10px; text-align: left; }
+td { padding: 9px; border-bottom: 1px solid #eee; }
+tr:hover td { background: #f5f5f5; }
